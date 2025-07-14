@@ -1,1 +1,1 @@
-its solutions for professore andrew NJ course (Stanford CS229)
+its assigments solutions for professore Andrew NJ machine learnig course (Stanford CS229) 
